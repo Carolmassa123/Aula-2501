@@ -15,6 +15,7 @@
         background-color: rgb(216,215,215);
         align-items: center;
         justify-content: center;
+        background-color: blueviolet;
     }
     #container{
         width: 80vw;
@@ -63,7 +64,7 @@
         flex-direction: column;
         width: 60vw;
         height: 10vh;
-        padding-left: 35px;
+        margin-left: 9.5vw;
         margin-top: 20px;
         font-size: 13px;
         font-weight: 500;
@@ -81,7 +82,7 @@
         flex-direction: column;
         width: 60vw;
         height: 10vh;
-        padding-left: 35px;
+        margin-left: 9.5vw;
         font-size: 13px;
         font-weight: 500;
     }
@@ -103,7 +104,6 @@
         align-items: center;
         justify-content: center;
         width: 100%;
-        margin-left: -4.7px;
     }
     button {
         width: 60vw;
